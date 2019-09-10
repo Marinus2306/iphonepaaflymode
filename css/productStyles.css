@@ -5,3 +5,38 @@
 body {
     margin: 0;
 }
+
+h2, h1 {
+    text-align: center;
+}
+
+
+p {
+    text-align: justify;
+}
+
+header {
+    height: 100px;
+    background-color: darkgray;
+}
+
+img {
+    width: 100%;
+}
+
+.pizza{
+    width: 70%;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+button {
+    display: block;
+    margin: 10px auto 0 auto;
+    border: none;
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
