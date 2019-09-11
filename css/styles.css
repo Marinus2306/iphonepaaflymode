@@ -45,3 +45,8 @@ button {
     text-decoration: none;
     padding: 10px;
 }
+
+.logo {
+    width: 40%;
+    padding-top: 30px   ;
+}
