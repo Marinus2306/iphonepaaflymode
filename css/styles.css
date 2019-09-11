@@ -5,3 +5,10 @@
 body {
     margin: 0;
 }
+header {
+    height: 100px;
+    background-color: darkgray;
+}
+h1 {
+    text-align: center;
+}
